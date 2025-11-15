@@ -1,3 +1,4 @@
+// #### 2. Inverted Right-Angled Triangle
 // Input: 5
 // Output:
 // *****

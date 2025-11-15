@@ -1,3 +1,4 @@
+// #### 1. Right-Angled Triangle of Stars
 // Input: 5
 // Output:
 // *
